@@ -1,6 +1,6 @@
 {
-  "name": "@glarus-labs/vendure-social-auth",
-  "version": "0.1.1",
+  "name": "@zifahm/vendure-social-auth",
+  "version": "0.1.2",
   "description": "A social authentication plugin for Vendure E-Commerce",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -34,7 +34,7 @@
     "typescript": "^3.9.5"
   },
   "dependencies": {
-    "@vendure/core": "^0.13.0",
+    "@vendure/core": "^0.13.1",
     "crypto": "^1.0.1",
     "google-auth-library": "^6.0.1",
     "ms": "^2.1.2"
